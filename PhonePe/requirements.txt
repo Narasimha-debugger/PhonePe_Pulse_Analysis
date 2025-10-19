@@ -1,0 +1,13 @@
+pandas
+numpy
+GitPython
+mysql-connector-python
+sqlalchemy
+pymysql
+cryptography
+dotenv
+streamlit
+matplotlib
+altair
+plotly
+geopandas
