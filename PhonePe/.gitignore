@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# Virtualenv
+venv/
+.env
+.env.* 
+
+# Jupyter
+.ipynb_checkpoints
+*.ipynb
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# OneDrive temp files
+~$*
+
+# Streamlit cache (optional)
+.streamlit/
+
+# Data files (if large, keep them out of repo or use Git LFS)
+Data Processing/Files/
