@@ -6,7 +6,7 @@ This project has analysis done on Phonepe pulse data available on GitHub reposit
 
 ---
 
-## Folderel structure
+## Folder structure
 
 - `Streamlit_App/` — Folder for Streamlit dashboard app and functions.
   - `PhonePay_Pulse.py` — main Streamlit app python file (run this with Streamlit).
